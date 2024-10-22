@@ -1,1 +1,2 @@
 apachepulsar/pulsar-all:latest
+apachepulsar/pulsar-dashboard
