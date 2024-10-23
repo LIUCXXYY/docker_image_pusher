@@ -2,4 +2,4 @@ apachepulsar/pulsar-all:latest
 apachepulsar/pulsar-dashboard
 apachepulsar/pulsar-manager
 apachepulsar/pulsar-all:3.3.2
-  --platform=MACos
+--platform=Apple
